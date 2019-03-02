@@ -5,7 +5,10 @@
 > 实现的主要功能有首页轮播、图标区域的滑动、城市搜索、递归组件的使用等等
 
 ## 截图
-![image](https://github.com/youson/play-app/src/assets/img/去哪玩图片一.png)
+![image](https://github.com/yourson/play-app/blob/master/src/assets/img/去哪玩图片一.png)
+![image](https://github.com/yourson/play-app/blob/master/src/assets/img/去哪玩图片二.png)
+![image](https://github.com/yourson/play-app/blob/master/src/assets/img/去哪玩图片三.png)
+![image](https://github.com/yourson/play-app/blob/master/src/assets/img/去哪玩图片四.png)
 
 ## Build Setup
 

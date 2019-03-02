@@ -5,8 +5,7 @@
 > 实现的主要功能有首页轮播、图标区域的滑动、城市搜索、递归组件的使用等等
 
 ## 截图
-![Image text]
-()
+![image](https://github.com/youson/play-app/src/assets/img/去哪玩图片一.png)
 
 ## Build Setup
 
@@ -25,4 +24,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-"# play-app" 
+"# play-app"
